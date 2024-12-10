@@ -1,9 +1,9 @@
 [submodule "HeliosLauncher"]
-    path = HeliosLauncher
-    url = https://github.com/Kevin-Studio-Dev/SpearfishForest4-HeliosLauncher.git
+	path = HeliosLauncher
+	url = https://github.com/Kevin-Studio-Dev/SpearfishForest4-HeliosLauncher.git
 [submodule "Nebula"]
-    path = Nebula
-    url = https://github.com/Kevin-Studio-Dev/SpearfishForest4-Nebula.git
+	path = Nebula
+	url = https://github.com/Kevin-Studio-Dev/SpearfishForest4-Nebula.git
 [submodule "Release"]
-    path = Release
-    url = https://github.com/Kevin-Studio-Dev/SpearfishForest4-Release.git
+	path = Release
+	url = https://github.com/Kevin-Studio-Dev/SpearfishForest4-Release.git
